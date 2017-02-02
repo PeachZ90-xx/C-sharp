@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DF599198-B7FE-6161-864C-D9864EEA5066}") = "Alpha_ios_game", "Assembly-CSharp.csproj", "{59017EC3-F805-566F-A54F-BCE7AC8F5EE1}"
+EndProject
+Project("{DF599198-B7FE-6161-864C-D9864EEA5066}") = "Alpha_ios_game", "Assembly-CSharp-Editor.csproj", "{1DF06227-6692-0C94-25DD-47D6CC8483B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59017EC3-F805-566F-A54F-BCE7AC8F5EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59017EC3-F805-566F-A54F-BCE7AC8F5EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59017EC3-F805-566F-A54F-BCE7AC8F5EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59017EC3-F805-566F-A54F-BCE7AC8F5EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF06227-6692-0C94-25DD-47D6CC8483B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF06227-6692-0C94-25DD-47D6CC8483B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF06227-6692-0C94-25DD-47D6CC8483B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF06227-6692-0C94-25DD-47D6CC8483B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
